@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\projenes\\projenes\\projenes.csproj",
+      "projectUniqueName": "C:\\Users\\MONSTER\\Documents\\GitHub\\enes-otomasyon\\projenes\\projenes.csproj",
       "projectName": "projenes",
-      "projectPath": "C:\\Users\\MONSTER\\source\\repos\\projenes\\projenes\\projenes.csproj",
+      "projectPath": "C:\\Users\\MONSTER\\Documents\\GitHub\\enes-otomasyon\\projenes\\projenes.csproj",
       "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MONSTER\\source\\repos\\projenes\\projenes\\obj\\",
+      "outputPath": "C:\\Users\\MONSTER\\Documents\\GitHub\\enes-otomasyon\\projenes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -502,11 +502,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

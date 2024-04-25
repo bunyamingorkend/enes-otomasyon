@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j55lPcRmL/XZBdb/t5oTjjUYpE95rK0PGbKD8bKpkyvUvJ9KN2/CuSl5gwS56a5/aPGvS1+kZUDDDAbtt5H6GQ==",
+  "dgSpecHash": "KPPz8iQE+nTpl1Qayqi9JEEmDC/JYS7BNP3ts+ySenJy74g2NRHw15z+6+P/hVtcFLFxjm1O15QIZ/OfHtrwFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MONSTER\\source\\repos\\projenes\\projenes\\projenes.csproj",
+  "projectFilePath": "C:\\Users\\MONSTER\\Documents\\GitHub\\enes-otomasyon\\projenes\\projenes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MONSTER\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\MONSTER\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
